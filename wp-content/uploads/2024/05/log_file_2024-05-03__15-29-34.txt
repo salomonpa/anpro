@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: BizDirectory were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Annuaireprof
+Data file = C:\xampp\htdocs\Annuaireprof/wp-content/uploads/2024/05/demo-content-import-file_2024-05-03__15-29-34.xml
+Widget file = C:\xampp\htdocs\Annuaireprof/wp-content/uploads/2024/05/demo-widgets-import-file_2024-05-03__15-29-34.json
+Customizer file = C:\xampp\htdocs\Annuaireprof/wp-content/uploads/2024/05/demo-customizer-import-file_2024-05-03__15-29-34.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Directorist - Listing Right Sidebar : 
+
+Directorist - Author Info - Author Info - Imported
+Directorist - Contact Listing Owner - Contact the listing owner - Imported
+Directorist - Map (Single Listing) - Map - Imported
+
+Sidebar : 
+
+Bloc - No Title - Widget already exists
+Bloc - No Title - Imported
+Bloc - No Title - Imported
+
+bizdirectory Footer Widget1 : 
+
+Texte - Our Company - Imported
+
+bizdirectory Footer Widget2 : 
+
+Menu de navigation - Quick Links - Imported
+
+bizdirectory Footer Widget3 : 
+
+Vidéo - See How it Works - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

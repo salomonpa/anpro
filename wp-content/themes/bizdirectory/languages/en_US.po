@@ -1,0 +1,650 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BizDirectory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-06 05:27+0000\n"
+"PO-Revision-Date: 2024-01-06 05:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: bizdirectory"
+
+#: functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:138
+msgid "bizdirectory Footer Widget"
+msgstr ""
+
+#: functions.php:209
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:212
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:295
+msgid "Add Footer Widget"
+msgstr ""
+
+#: functions.php:325
+msgid "Hey, Thank you for installing BizDirectory Theme!"
+msgstr ""
+
+#: functions.php:326
+msgid ""
+"BizDirectory is now installed and ready to use. Click below to see theme "
+"documentation, and other details to get started."
+msgstr ""
+
+#: functions.php:327 functions.php:356
+msgid "Welcome to BizDirectory"
+msgstr ""
+
+#: functions.php:328
+msgid "Dismiss"
+msgstr ""
+
+#: functions.php:355
+msgid "About BizDirectory"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:94
+msgid "Close Menu"
+msgstr ""
+
+#: footer.php:48
+msgid "Powered By WordPress"
+msgstr ""
+
+#: footer.php:49
+msgid " | "
+msgstr ""
+
+#: footer.php:50
+msgid "Bizdirectory"
+msgstr ""
+
+#: single.php:26
+msgid "Previous:"
+msgstr ""
+
+#: single.php:27
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "More Social links available in Pro Version"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Banner Sub Title"
+msgstr ""
+
+#: inc/customizer.php:143 inc/customizer.php:320
+msgid "Add Background Image"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Listing Section"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Show Listing Section"
+msgstr ""
+
+#: inc/customizer.php:188 inc/customizer.php:366
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:205 inc/customizer.php:383
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Show CTA Section"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "CTA Title"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "CTA Sub Title"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Show Blog Section"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "No Of Blog Posts to show?"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: welcome/welcome.php:16
+msgid "Bizdirectory!"
+msgstr ""
+
+#: welcome/welcome.php:17
+msgid "Best for Directory listing sites"
+msgstr ""
+
+#: welcome/welcome.php:20 welcome/welcome.php:298
+msgid "Get Bizdirectory Pro"
+msgstr ""
+
+#: welcome/welcome.php:21
+msgid "Documentation"
+msgstr ""
+
+#: welcome/welcome.php:28
+msgid "Setup Homepage without Importing Demo Content"
+msgstr ""
+
+#: welcome/welcome.php:29
+msgid "1. Create a Page"
+msgstr ""
+
+#: welcome/welcome.php:31
+msgid "2. And in right sidebar select Homepage Template in Page attributes."
+msgstr ""
+
+#: welcome/welcome.php:33
+msgid "3. Goto Settings > Reading > Choose Static page."
+msgstr ""
+
+#: welcome/welcome.php:35
+msgid "4. Select page and save."
+msgstr ""
+
+#: welcome/welcome.php:37
+msgid ""
+"5. Goto Appearance > Install Plugins and Install all Recommended Plugins."
+msgstr ""
+
+#: welcome/welcome.php:40 welcome/welcome.php:57
+msgid "Now follow \"Editing Homepage\" Action (last column)"
+msgstr ""
+
+#: welcome/welcome.php:45
+msgid "Or Import Demo Content"
+msgstr ""
+
+#: welcome/welcome.php:46
+msgid ""
+"1.  Goto Appearance > Install Plugins and Install all Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:48
+msgid ""
+"2. Download Themes Artist Demo Importer plugin from here and download the "
+"zip file"
+msgstr ""
+
+#: welcome/welcome.php:50
+msgid ""
+"3. Goto Dashboard > Plugins > Add New Plugin and upload and activate the "
+"above downloaded plugin zip file "
+msgstr ""
+
+#: welcome/welcome.php:52
+msgid ""
+"4. Goto Appearance > Import demo Data and import demo content from there"
+msgstr ""
+
+#: welcome/welcome.php:54
+msgid "5. Your Site is now ready."
+msgstr ""
+
+#: welcome/welcome.php:62
+msgid "Editing Homepage"
+msgstr ""
+
+#: welcome/welcome.php:63
+msgid ""
+"Go to Apearance > Customizer > Theme Options and you can edit and add all "
+"Homepage Content"
+msgstr ""
+
+#: welcome/welcome.php:65
+msgid "Go to Customizer"
+msgstr ""
+
+#: welcome/welcome.php:73
+msgid "More About bizdirectory"
+msgstr ""
+
+#: welcome/welcome.php:78
+msgid "Important Links"
+msgstr ""
+
+#: welcome/welcome.php:79
+msgid "FAQ's & Support"
+msgstr ""
+
+#: welcome/welcome.php:80
+msgid "Free Vs Pro"
+msgstr ""
+
+#: welcome/welcome.php:85
+msgid "Bizdirectory (Free) Demo "
+msgstr ""
+
+#: welcome/welcome.php:86
+msgid ""
+"Checkout the demo to gain a better understanding of our theme design and its "
+"features."
+msgstr ""
+
+#: welcome/welcome.php:87 welcome/welcome.php:93
+msgid "View Demo"
+msgstr ""
+
+#: welcome/welcome.php:91
+msgid "Bizdirectory (Pro) Demo "
+msgstr ""
+
+#: welcome/welcome.php:92
+msgid ""
+"Checkout the demo of the premium version of Bizdirectory, It is awesome."
+msgstr ""
+
+#: welcome/welcome.php:97
+msgid "View Our Documentation"
+msgstr ""
+
+#: welcome/welcome.php:98
+msgid ""
+"Explore our tutorials and embark on a journey of effortless theme "
+"customization. Our Documentation provides valuable insights into every "
+"aspect of theme functionality, empowering you to create a website that "
+"reflects your vision with confidence."
+msgstr ""
+
+#: welcome/welcome.php:99
+msgid "View Documentation"
+msgstr ""
+
+#: welcome/welcome.php:103
+msgid "Support Ticket"
+msgstr ""
+
+#: welcome/welcome.php:104
+msgid ""
+"Whether you encounter technical challenges, have inquiries about "
+"customization, or seek guidance on maximizing theme features, Send ticket "
+"via our Support Portal and we will get back to you asap."
+msgstr ""
+
+#: welcome/welcome.php:105
+msgid "Contact Support"
+msgstr ""
+
+#: welcome/welcome.php:113
+msgid "Should I buy Premium version?"
+msgstr ""
+
+#: welcome/welcome.php:115
+msgid ""
+"Sure, Premium Version comes with much more features which is one of the "
+"reason you should buy premium version. With the premium theme, you not only "
+"receive extra features and consistent updates but also benefit from "
+"dedicated and prompt support."
+msgstr ""
+
+#: welcome/welcome.php:123
+msgid ""
+"I can only add couple of social links in my website. How can I add more ?"
+msgstr ""
+
+#: welcome/welcome.php:125
+msgid ""
+"There are 2 options, you can either get the premium version or you can "
+"modify the codes and add yourself. Remember to add the changes in child "
+"theme always."
+msgstr ""
+
+#: welcome/welcome.php:133
+msgid "How do I change the copyright text?"
+msgstr ""
+
+#: welcome/welcome.php:136
+msgid ""
+"If you wish to change the copyright text, consider upgrading to the Premium "
+"version."
+msgstr ""
+
+#: welcome/welcome.php:143
+msgid "How can I get support?"
+msgstr ""
+
+#: welcome/welcome.php:146
+msgid ""
+"For any theme related queries or support, Please submit the tickt through "
+"our support portal https://themesartist.com/support-portal/ or email us here "
+"mail.themesartist@gmail.com and one of our developer will getback to you "
+"asap."
+msgstr ""
+
+#: welcome/welcome.php:154
+msgid "Features"
+msgstr ""
+
+#: welcome/welcome.php:155
+msgid "Free Version"
+msgstr ""
+
+#: welcome/welcome.php:156
+msgid "Premium Version"
+msgstr ""
+
+#: welcome/welcome.php:159
+msgid "Responsive Design"
+msgstr ""
+
+#: welcome/welcome.php:168
+msgid "Easy Setup"
+msgstr ""
+
+#: welcome/welcome.php:178 lib/bizdirectory-tgmp.php:71
+msgid "One Click Demo Import"
+msgstr ""
+
+#: welcome/welcome.php:188
+msgid "SEO Optimized"
+msgstr ""
+
+#: welcome/welcome.php:198
+msgid "Cross Browser Compatible"
+msgstr ""
+
+#: welcome/welcome.php:208
+msgid "Translation Ready"
+msgstr ""
+
+#: welcome/welcome.php:218
+msgid "Fully Elementor Compatible"
+msgstr ""
+
+#: welcome/welcome.php:228
+msgid "Change Footer Copyright"
+msgstr ""
+
+#: welcome/welcome.php:238
+msgid "More Homepage Features"
+msgstr ""
+
+#: welcome/welcome.php:248
+msgid "Beautiful Listing Pages"
+msgstr ""
+
+#: welcome/welcome.php:258
+msgid "Better Home Page Design"
+msgstr ""
+
+#: welcome/welcome.php:268
+msgid "Multiple Social Links"
+msgstr ""
+
+#: welcome/welcome.php:277
+msgid "Priority Support"
+msgstr ""
+
+#: welcome/welcome.php:296
+msgid "Checkout Bizdirectory Premium Version"
+msgstr ""
+
+#: welcome/welcome.php:297 welcome/welcome.php:315
+msgid ""
+"Support us by giving 5 star, just takes a few minutes to add a review. It "
+"will be very helpful for us."
+msgstr ""
+
+#: welcome/welcome.php:305
+msgid "Need more features added to the theme?"
+msgstr ""
+
+#: welcome/welcome.php:306
+msgid ""
+"If you require additional functionality or would like to customize the "
+"design to suit your needs, please fill out the form from the link below. We "
+"will contact you shortly. Please be as descriptive as possible."
+msgstr ""
+
+#: welcome/welcome.php:307
+msgid "Request Customization"
+msgstr ""
+
+#: welcome/welcome.php:314
+msgid "Love the Bizdirectory Theme?"
+msgstr ""
+
+#: welcome/welcome.php:316
+msgid "Add a Review"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:58
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:44
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: lib/bizdirectory-tgmp.php:64
+msgid "Directorist"
+msgstr ""
+
+#. Name of the theme
+msgid "BizDirectory"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"BizDirectory is a powerful Directory &amp; Listing WordPress theme and "
+"ultimate solution for creating a dynamic and user-friendly online directory, "
+"designed to seamlessly integrate with the Directorist WordPress plugin. With "
+"BizDirectory, you can effortlessly build a feature-rich directory website "
+"that showcases businesses, services, and locations with style. This theme "
+"not only provides a stunning and responsive design but also offers robust "
+"functionality, ensuring an optimal user experience. Whether you're creating "
+"a local business directory or a niche-specific listing site, BizDirectory is "
+"your go-to choice. Boost your online presence, enhance search engine "
+"visibility, and make directory management a breeze with BizDirectory – the "
+"perfect synergy of form and function."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themesartist.com/bizdirectory"
+msgstr ""
+
+#. Author of the theme
+msgid "themesartist"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themesartist.com/"
+msgstr ""
